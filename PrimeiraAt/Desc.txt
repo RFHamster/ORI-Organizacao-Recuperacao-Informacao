@@ -1,0 +1,17 @@
+# Primeiro Trabalho
+
+Dados vários arquivos de documento em formato PDF contendo texto. (arquivos no Moodle)
+
+Para cada arquivo:
+
+- Extrair todas as palavras gerando uma lista contendo todas as ocorrências de cada palavra para cada documento. Estas palavras devem estar em minúsculas contendo somente letras. Pode considerar acentos e cedilha.
+
+- Extrair as stopwords por supervisão. Considerar verbos como termos válidos.
+
+- Listar as stopwords encontradas.
+
+- Lematizar todos os termos. Listar termo extraído e a palavra original. Se só for possível estimizar, estemize.
+
+- Com os termos dos arquivos, gerar uma lista da forma:
+
+Termo/frequência_no_Corpus -> código_documento/aparições_no_doc

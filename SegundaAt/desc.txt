@@ -1,0 +1,13 @@
+# Segundo Trabalho ORI
+
+## Descrição do problema
+
+- Ler os arquivos de termos do trabalho anterior e criar seus dicionários  Nenhum trabalho de padronização, stopwords e lematização deve ser feito.
+
+- criar a estrutura de indice invertido.
+
+- Implementar o modelo vetorial.
+
+- Retornar os resultados em janela estática com os textos correspondentes.
+
+- Durante a apresentação dos trabalhos serão pedidas 3 buscas.
